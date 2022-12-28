@@ -1,3 +1,3 @@
 # Online-Multiplayer-Game
 
-*Online Multiplayer Game with Pygame
+* Online Multiplayer Game with Pygame
